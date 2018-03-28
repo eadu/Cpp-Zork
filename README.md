@@ -1,2 +1,2 @@
-# Cpp-Zork
-Zork Project for ECE 30862
+# zork
+ECE 30862 Zork Project
